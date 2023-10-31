@@ -14,7 +14,7 @@ Paso 5: Cree una base de datos llamada proyectos en su administrador de bases de
 
 Paso 6: Renombre el archivo .env.example a .env
 
-Paso 7: Edite el archivo .env y busque el espacio para las conexiones mysql el cual le ayudara a configurar la base  de datos, le quedará algo similar a esto: 
+Paso 7: Edite el archivo .env y busque el espacio para las conexiones mysql, el cual le ayudara a configurar la base  de datos, le quedará algo similar a esto: 
 
         DB_CONNECTION=mysql
         DB_HOST=127.0.0.1
