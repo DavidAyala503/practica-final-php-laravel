@@ -1,7 +1,7 @@
 *************************************************************************************************************************************************
 Instalación del Sistema
 *************************************************************************************************************************************************
-Paso 1: Copie el siguiente comando en la carpeta de su servidor web: 
+Paso 1: Copie el siguiente comando en una consola en la carpeta de su servidor web: 
 git clone https://github.com/DavidAyala503/practica-final-php-laravel.git
 
 Paso 2: Su editor de preferido.
