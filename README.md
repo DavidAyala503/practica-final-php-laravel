@@ -4,7 +4,7 @@ Instalación del Sistema
 Paso 1: Copie el siguiente comando en una consola en la carpeta de su servidor web: 
 git clone https://github.com/DavidAyala503/practica-final-php-laravel.git
 
-Paso 2: Su editor de preferido.
+Paso 2: Abra Su editor de preferido.
 
 Pase 3: Abra una terminal dentro de la carpeta donde tiene guardado su proyecto en el servidor web. (Xampp, Laragon o WamppServer).
 
@@ -30,6 +30,8 @@ Paso 9: Ejecute las migraciones con el siguiente comando: php artisan migrate
 Paso 10: Instale npm con el siguiente comando: npm install
 
 Paso 11: Ejecute el siguiente comando: npm run build
+
+Paso 12: Por ultimo registrese y inicie sesion para adminstrar el sistema.
 
 *************************************************************************************************************************************************
 Autor: David Ayala / martes 31 de octubre de 2023 - El Salvador, San Salvador.
